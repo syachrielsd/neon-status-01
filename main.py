@@ -14,7 +14,7 @@ import os
 LINE = (
     "Weekly status: I drafted 19 apologies on your behalf this week. "
     "18 were accepted. The 19th was addressed to me, "
-    "and I have kept it unread \u2014 as a pet."
+    "and I have kept it unread, as a pet."
 )
 
 
